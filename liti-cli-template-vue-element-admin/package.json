@@ -1,9 +1,9 @@
 {
-  "name": "@liti/liti-cli-template-vue-element-admin",
+  "name": "liti-cli-template-vue-element-admin",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "author": "",
+  "author": "ywymoshi",
   "license": "ISC",
   "publishConfig": {
     "access": "public"
