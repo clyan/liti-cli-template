@@ -13,9 +13,6 @@
     "UI",
     "Vue"
   ],
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run build:es && npm run build:umd",
